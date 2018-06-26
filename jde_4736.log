@@ -1,0 +1,147 @@
+4736/5448 MAIN_THREAD                       	Sun Jun 24 16:15:16.176002	IPCMISC.C299
+	process 4736 <jdenet_k> registered in entry 26
+ 
+4736/5448 MAIN_THREAD                       	Sun Jun 24 16:15:16.191000	NETCFG.C297
+	Starting Kernel of Type:CALL OBJECT KERNEL
+ 
+4736/5448 MAIN_THREAD                       	Sun Jun 24 16:15:16.191001	NETPUB.C3068
+	KERNEL RECYCLING: This kernel will start recycling at Sun Jul 01 03:30 (using time of day of Sun:03:30)
+
+4736/5448 MAIN_THREAD                       	Sun Jun 24 16:15:16.191002	NETPUB.C3120
+	KERNEL RECYCLING: Kernel PID (4736) will consider users inactive after 360 minutes (using inactive-user elapsed time of 6:00)
+
+4736/5448 MAIN_THREAD                       	Sun Jun 24 16:15:16.191003	NETPUB.C3158
+	KERNEL RECYCLING: Kernel PID (4736) will do a forced exit at Sun Jul 01 15:30 (using forced-exit elapsed time of 12:00)
+
+4736/5448 MAIN_THREAD                       	Sun Jun 24 16:15:17.159000	XMLRequest.cpp1265
+	ICU0000017 - ICU CodePage for 1252 is ibm-1252.
+
+4736/5448 SYS:Dispatch                      	Sun Jun 24 16:15:17.159001	JDEKDISP.C2414
+	INITIALIZING CALL OBJECT KERNEL
+
+4736/5448 SYS:Dispatch                      	Sun Jun 24 16:15:19.155000	dbperfrq.c471
+	OCI0000178 - Unable to execute - SELECT WWALPH FROM PERQADTA.F0111  WHERE  ( WWAN8 = :KEY1 AND WWIDLN = :KEY2 )  ORDER BY WWAN8 ASC,WWIDLN ASC
+
+4736/5448 SYS:Dispatch                      	Sun Jun 24 16:15:19.155001	dbperfrq.c477
+	OCI0000179 - Error - ORA-00942: table or view does not exist
+ 
+4736/5448 SYS:Dispatch                      	Sun Jun 24 16:15:19.155002	JDB_DRVM.C999
+	JDB9900170 - Failed to execute db request
+
+4736/5448 SYS:Dispatch                      	Sun Jun 24 16:15:19.155003	JDB_UTL1.C12665
+	JDB9900810 - Failed to populate address book number and user full name for user JDE
+
+4736/5448 SYS:Dispatch                      	Sun Jun 24 16:15:19.608000	dbperfrq.c471
+	OCI0000178 - Unable to execute - SELECT WWALPH FROM PERQADTA.F0111  WHERE  ( WWAN8 = :KEY1 AND WWIDLN = :KEY2 )  ORDER BY WWAN8 ASC,WWIDLN ASC
+
+4736/5448 SYS:Dispatch                      	Sun Jun 24 16:15:19.608001	dbperfrq.c477
+	OCI0000179 - Error - ORA-00942: table or view does not exist
+ 
+4736/5448 SYS:Dispatch                      	Sun Jun 24 16:15:19.608002	JDB_DRVM.C999
+	JDB9900170 - Failed to execute db request
+
+4736/5448 SYS:Dispatch                      	Sun Jun 24 16:15:19.608003	JDB_UTL1.C12665
+	JDB9900810 - Failed to populate address book number and user full name for user JDE
+
+4736/5448 SYS:Dispatch                      	Sun Jun 24 16:15:19.811000	JDEKDISP.C2503
+	KNT0000888 - Call Object Kernel Thread Pool in multi-threaded mode.
+
+4736/5448 SYS:Dispatch                      	Sun Jun 24 16:15:19.811001	JDEKDISP.C2510
+	KNT0000999 - Call Object Kernel Thread Pool Setting: size 30, increment 5
+
+4736/4716 WRK:BRCRM_07042E30_DConnector     	Mon Jun 25 11:20:35.163000	jdecache.c2840
+	CAC0001528 - (jdeCacheCloseCursor) invalid cache handle encountered hCache:[0C47B118]
+
+4736/6576 WRK:BRCRM_07042E30_DConnector     	Mon Jun 25 11:25:23.320000	jdecache.c2840
+	CAC0001528 - (jdeCacheCloseCursor) invalid cache handle encountered hCache:[09C95138]
+
+4736/6576 WRK:BRCRM_07042E30_DConnector     	Mon Jun 25 11:49:13.324000	jdecache.c2840
+	CAC0001528 - (jdeCacheCloseCursor) invalid cache handle encountered hCache:[09C94C98]
+
+4736/6976 WRK:Init Remote Env Token         	Mon Jun 25 15:10:02.546000	JDB_UTL1.C12665
+	JDB9900810 - Failed to populate address book number and user full name for user RSOLIM01
+
+4736/6976 WRK:Init Remote Env Token         	Mon Jun 25 15:10:03.685000	JDB_UTL1.C12665
+	JDB9900810 - Failed to populate address book number and user full name for user RSOLIM01
+
+4736/5448 SYS:Dispatch                      	Mon Jun 25 20:40:38.473000	JDEKDISP.C2267
+	KNT0000099 - JDEK_DispatchCallObjectMessage: Pooled Connection: 07042E30 timed out!
+
+4736/1136 WRK:Init Remote Env Token         	Mon Jun 25 22:09:39.333000	NETFLOW.C1629
+	getKernelInternalQueueEntrySvr(): response msg timed out.
+
+4736/1136 WRK:Init Remote Env Token         	Mon Jun 25 22:10:09.351000	NETFLOW.C1629
+	getKernelInternalQueueEntrySvr(): response msg timed out.
+
+4736/1136 WRK:Init Remote Env Token         	Mon Jun 25 22:10:21.457000	JDB_CTL.C8550
+	JDB9900155 - Failed to get non - zero AB Number.
+
+4736/1136 WRK:Init Remote Env Token         	Mon Jun 25 22:10:21.457001	JDB_UTL1.C12655
+	JDB9900808 - Failed to get Address number for user URCRM
+
+4736/1136 WRK:Init Remote Env Token         	Mon Jun 25 22:10:21.457002	JDB_UTL1.C12665
+	JDB9900810 - Failed to populate address book number and user full name for user URCRM
+
+4736/1136 WRK:Init Remote Env Token         	Mon Jun 25 22:10:21.551000	JDB_CFR.C5022
+	JDB9901003 - There is a conflict between auditing flags of table: F0006      among different environments sharing the data source: Business Data - URGPY910
+
+4736/1136 WRK:Init Remote Env Token         	Mon Jun 25 22:10:21.801000	JDB_CFR.C4987
+	JDB9901001 - There is a conflict between auditing flag of table: F0030 and its auditing components in data source: Business Data - URGPY910
+
+4736/1136 WRK:Init Remote Env Token         	Mon Jun 25 22:10:22.440000	JDB_CFR.C4987
+	JDB9901001 - There is a conflict between auditing flag of table: F43008 and its auditing components in data source: Business Data - URGPY910
+
+4736/1136 WRK:Init Remote Env Token         	Mon Jun 25 22:10:22.659000	JDB_CTL.C8550
+	JDB9900155 - Failed to get non - zero AB Number.
+
+4736/1136 WRK:Init Remote Env Token         	Mon Jun 25 22:10:22.659001	JDB_UTL1.C12655
+	JDB9900808 - Failed to get Address number for user URCRM
+
+4736/1136 WRK:Init Remote Env Token         	Mon Jun 25 22:10:22.659002	JDB_UTL1.C12665
+	JDB9900810 - Failed to populate address book number and user full name for user URCRM
+
+4736/5448 SYS:Dispatch:PKG Install          	Mon Jun 25 22:37:43.548000	JDB_OMP1.C651
+	JDB9900247 - Failed to find F98611 CAWLKA164 - 910 Server Map     in cache
+
+4736/5448 SYS:Dispatch:PKG Install          	Mon Jun 25 22:37:43.548001	JDB_RQ1.C2017
+	JDB3100011 - Failed to get location of table F00950 for environment JURGPY910
+
+4736/4716 WRK:Init Remote Env Token         	Mon Jun 25 22:37:55.061000	JDB_CTL.C8550
+	JDB9900155 - Failed to get non - zero AB Number.
+
+4736/4716 WRK:Init Remote Env Token         	Mon Jun 25 22:37:55.061001	JDB_UTL1.C12655
+	JDB9900808 - Failed to get Address number for user URCRM
+
+4736/4716 WRK:Init Remote Env Token         	Mon Jun 25 22:37:55.061002	JDB_UTL1.C12665
+	JDB9900810 - Failed to populate address book number and user full name for user URCRM
+
+4736/4716 WRK:Init Remote Env Token         	Mon Jun 25 22:37:55.154000	JDB_CFR.C5022
+	JDB9901003 - There is a conflict between auditing flags of table: F0006      among different environments sharing the data source: Business Data - URGPY910
+
+4736/4716 WRK:Init Remote Env Token         	Mon Jun 25 22:37:55.404000	JDB_CFR.C4987
+	JDB9901001 - There is a conflict between auditing flag of table: F0030 and its auditing components in data source: Business Data - URGPY910
+
+4736/4716 WRK:Init Remote Env Token         	Mon Jun 25 22:37:56.044000	JDB_CFR.C4987
+	JDB9901001 - There is a conflict between auditing flag of table: F43008 and its auditing components in data source: Business Data - URGPY910
+
+4736/4716 WRK:Init Remote Env Token         	Mon Jun 25 22:37:56.184000	JDB_CTL.C8550
+	JDB9900155 - Failed to get non - zero AB Number.
+
+4736/4716 WRK:Init Remote Env Token         	Mon Jun 25 22:37:56.184001	JDB_UTL1.C12655
+	JDB9900808 - Failed to get Address number for user URCRM
+
+4736/4716 WRK:Init Remote Env Token         	Mon Jun 25 22:37:56.184002	JDB_UTL1.C12665
+	JDB9900810 - Failed to populate address book number and user full name for user URCRM
+
+4736/4716 WRK:BELLOF_07042E30_P0413M        	Tue Jun 26 07:36:17.152000	RTK_FRMS.C790
+	RUN0000050 - Unable to retrieve DB Record for Application P76B470, Version BR200003 from F983051.
+
+4736/1012 WRK:BELLOF_07042E30_P0413M        	Tue Jun 26 07:36:58.119000	RTK_FRMS.C790
+	RUN0000050 - Unable to retrieve DB Record for Application P76B470, Version BR200003 from F983051.
+
+4736/6576 WRK:BELLOF_07042E30_P0413M        	Tue Jun 26 07:51:59.095000	RTK_FRMS.C790
+	RUN0000050 - Unable to retrieve DB Record for Application P76B470, Version BR200003 from F983051.
+
+4736/4716 WRK:BELLOF_07042E30_P0413M        	Tue Jun 26 07:58:24.364010	RTK_FRMS.C790
+	RUN0000050 - Unable to retrieve DB Record for Application P76B470, Version BR200003 from F983051.
+
